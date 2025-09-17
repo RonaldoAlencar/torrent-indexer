@@ -25,6 +25,7 @@ var commonTLDs = []string{
 	".la",
 	".se",
 	".to",
+	".fans"
 }
 
 var commonSubdomains = []string{
