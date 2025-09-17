@@ -19,7 +19,7 @@ import (
 
 var starck_filmes = IndexerMeta{
 	Label:       "starck_filmes",
-	URL:         "https://www.starckfilmes.online/",
+	URL:         "https://www.starckfilmes.fans/",
 	SearchURL:   "?s=",
 	PagePattern: "page/%s",
 }
